@@ -1,0 +1,1 @@
+{"virtualbox":{"/host":{"nfs":true,"guestpath":"/host","hostpath":"C:/Users/ScottLapTop","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ScottLapTop/Documents/GitHub/git-ssh---git-github.com-wprl-sports-mashup-api.git","disabled":false}}}
